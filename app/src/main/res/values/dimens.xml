@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <dimen name="padding_title">5dp</dimen>
+    <dimen name="padding_name_input">5dp</dimen>
+
+    <dimen name="small_round">32dp</dimen>
+    <dimen name="phim_text_size">30sp</dimen>
+
+    <dimen name="fab_button_diameter">56dp</dimen>
+    <dimen name="fab_button_margin_bottom">16dp</dimen>
+    <dimen name="fab_button_margin_right">16dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+
+    <dimen name="customTitle">14sp</dimen>
+    <dimen name="customEntry">18sp</dimen>
+    <dimen name="sample_button_spacing">2dp</dimen>
+
+    <dimen name="cardview_margin_horizontal">16dp</dimen>
+</resources>
